@@ -10,10 +10,7 @@ The objective of the game is to survive as long as possible and defeat as many e
 ## System Requirements
 
 To run the game, you will need Python 3 and the Pygame library installed.
-If you don't have Pygame installed, you can install it using pip:
-```bash
-pip3 install pygame
-```
+potato computers can also run this!
 
 ## How to Play
 
