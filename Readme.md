@@ -1,8 +1,6 @@
 # Makwa-s Space Shooter
-
-<img src="img/game.png" alt="A Screenshot of the Makwa-s Space Shooter." 
-
-style="width:60%;">
+video link
+https://www.youtube.com/watch?v=x3L6yCVLPDE
 
 ## Description
 
